@@ -25,6 +25,7 @@ ul.posts li { list-style: none; }
 
 /* About */
 .about h4 {font-size: 1.0em; }
+.about img { border-radius: 50%; }
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
